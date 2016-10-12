@@ -60,7 +60,7 @@ Seamless external R server integration with Excel with step-by-step debugging of
 
 ### Excel client
 
-`1`. Download Excelsi-R.dll from sourceforge 
+`1`. Download Excelsi-R.dll from Excelsi-R sourceforge or from https://github.com/adamryczkowski/eRUM2016 
 
 > you actually download the whole bundle `Excelsi-R v0.8 setup.exe`. Just extract the dll from there.
 
@@ -100,4 +100,8 @@ Seamless external R server integration with Excel with step-by-step debugging of
 
 > `svSocket::startSocketServer()`
 
+
+### Source code
+
+https://github.com/adamryczkowski/eRUM2016
 
